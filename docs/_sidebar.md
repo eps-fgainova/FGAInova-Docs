@@ -1,30 +1,13 @@
-- [**Home**](README.md)
-
-- **Base**
-  - **Projeto Não Orientado a Abordagens Específicas**
-    - [Design Sprint](pages/fase_01/design_sprint.md)
-      - [Protótipos](pages/fase_01/prototipoBaixaAltaFidelidade.md)
-      - [Testes de Usabilidade](pages/fase_01/testes_usabilidade.md)
-    - Artefato Independente de Metodologia
-      - Pré-Rastreabilidade
-        - [5W2H](pages/fase_01/5w2h.md)
-        - [Diagrama Causa-Efeito](pages/fase_01/diagrama_causa_efeito.md)
-        - [Mapa mental](pages/fase_01/mapa_mental.md)
-        - [Rich Picture](pages/fase_01/richPicture.md)
-      - Técnicas de Elicitação
-        - [Brainstorming](pages/fase_01/brainstorming.md)
-        - [Personas](pages/fase_01/personas.md)
-        - [Storytelling](pages/fase_01/storytelling.md)
-      - Esboço de Baseline de Requisitos
-        - [Priorização Moscow](pages/fase_01/priorizacao_moscow.md)
-      - Modelagem de Requisitos
-        - [Diagrama de Casos de Uso](pages/fase_01/casos_de_uso.md)
-  - **Processos, Metodologias e Abordagens**
-    - [Modelagem BPMN](pages/fase_01/modelagem_bpmn.md)
-    - [Metodologias](pages/fase_01/metodologias.md)
-  - **Iniciativas extras**
-    - [Atas da Entrega](_indiceReuniao.md)
-    - [Política de repositório](pages/fase_01/iniciativasExtras/politica_repositorio.md)
-    - [First Things First](pages/fase_01/iniciativasExtras/first_things_first.md)
-  - **Apresentações**
-    - [Vídeos](pages/fase_01/apresentacoes_base.md)
+<!-- # [**Home**](README.md) -->
+[**Home**](README.md)
+- **Produto**  
+  - [Documento de Visão](/pages/documentovisao.md)  
+  - [Visão Geral do Projeto](/pages/documentoVisaoProjeto.md)
+  <!-- - [Minimo Produto Viável](/pages/mvp.md) -->
+  - [Lean Inception](/pages/leanInception.md)
+- **Documentos**  
+  - [Documento de arquitetura](pages/documentoDeArquitetura.md)  
+  - [Protótipo de Baixa e Alta Fidelidade](pages/prototipos.md)
+  - [Identidade visual](pages/identidadeVisual.md.md)
+  - [Folha de Estilo](pages/folhaDeEstilo.md)
+  - [Sprints]()
