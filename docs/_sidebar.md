@@ -10,4 +10,5 @@
   - [Protótipo de Baixa e Alta Fidelidade](pages/prototipos.md)
   - [Identidade visual](pages/identidadeVisual.md.md)
   - [Folha de Estilo](pages/folhaDeEstilo.md)
+  - [Plano de Custos](pages/planoDeCustos.md)
   - [Sprints]()
