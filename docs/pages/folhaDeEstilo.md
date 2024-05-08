@@ -7,7 +7,7 @@
 De modo geral, lint é um programa que checa um código **estático** procurando possíveis erros comuns e de estética do código. O uso de um programa lint permite a padronização da escrita e indentação do código produzido em equipe.
 
 ## 2.1 ESLint/Preetier
-ESLint é um dos programas linters utilizados para a linguagem ReactJS, enquanto o Preetier é uma extenção do VS Code que produz *warnings* relacionados à estilística do código. 
+ESLint é um dos programas linters utilizados para a linguagem ReactJS, enquanto o Preetier é uma extensão do VS Code que produz *warnings* relacionados à estilística do código. 
 
 Utilizar Eslint e Preetier, em conjunto, possibilita que o *linter* faça uma checagem do código enquanto ele é escrito e ao ser salvo.
 
@@ -91,7 +91,7 @@ Também é possível especificar as regras de estilística através do arquivo d
   "singleQuote": true
 }
 ```
-Vale ressaltar que as regras especificadas manualmente podem sobrescrever as utilizadas pelo padrão Eslint-Airbnb, fungindo do padrão escolhido e do objetivo do programa linter.
+Vale ressaltar que as regras especificadas manualmente podem sobrescrever as utilizadas pelo padrão Eslint-Airbnb, fugindo do padrão escolhido e do objetivo do programa linter.
 
 ## 3. Padrão de escrita e commits
 
