@@ -10,7 +10,5 @@
   - [Protótipo de Alta Fidelidade](pages/prototipos.md)
   - [Identidade visual](pages/identidadeVisual.md.md)
   - [Folha de Estilo](pages/folhaDeEstilo.md)
-  <!-- - [Plano de Custo]()
-  - [Plano de Gerenciamento de Risco]()
-  - [Plano de Comunicação]()
-  - [Guia de Contribuição]() -->
+  - [Plano de Custos](pages/planoDeCustos.md)
+  - [Sprints]()
