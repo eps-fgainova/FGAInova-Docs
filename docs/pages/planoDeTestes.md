@@ -180,3 +180,4 @@ Gherkin Reference. Disponível em: <https://cucumber.io/docs/gherkin/reference/>
 | Versão | Data       | Modificação          | Autor                        | Revisor(es) |
 | ------ | ---------- | -------------------- | ---------------------------- | ----------- |
 | 1.0    | 23/04/2024 | Criação do Documento | Philipe Serafim e Pedro Lima | Edvan       |
+| 1.0    | 23/04/2024 | Edição do Documento | Edvan e Pedro Lima | Philipe Serafim       |
