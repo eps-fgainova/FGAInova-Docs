@@ -139,6 +139,25 @@ Gherkin é frequentemente usado em conjunto com BDD, pois os cenários escritos 
 <p><strong>Quando</strong> eu acesso o link de um projeto inexistente</p>
 <p><strong>Então</strong> eu devo ser direcionado para a página com uma mensagem indicando projeto não inexistente</p>
 
+---
+
+#### **TC04-06** Editar projeto
+<p><strong>Dado</strong> que eu estou na página de detalhes de um projeto</p>
+<p><strong>Quando</strong> eu clico no botão 'Editar Projeto'</p>
+<p><strong>E</strong> eu edito as informações do projeto</p>
+<p><strong>E</strong> eu clico no botão 'Salvar'</p>
+<p><strong>Então</strong> eu devo ver uma mensagem confirmando que a edição foi bem sucedida</p>
+<p><strong>E</strong> as informações atualizadas devem ser exibidas na página do projeto</p>
+
+--- 
+
+#### **TC04-07** Cancelar edição do projeto
+<p><strong>Dado</strong> que eu estou na página de detalhes de um projeto</p>
+<p><strong>Quando</strong> eu clico no botão 'Editar Projeto'</p>
+<p><strong>E</strong> eu edito as informações do projeto</p>
+<p><strong>E</strong> eu clico no botão 'Cancelar'</p>
+<p><strong>Então</strong> eu devo ver a página do projeto com as informações originais</p>
+
 <!--   
 ### FEAT05 - Pesquisar Projeto
 ### FEAT06 - Curtir Projeto
