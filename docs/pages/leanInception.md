@@ -62,9 +62,9 @@ Essa atividade nos ajudou a criar personas relevantes para o projeto e também f
 A Jornada do Usuário foi fundamental para compreendermos as diferentes etapas de interação dos usuários com nosso produto, desde o primeiro contato até a utilização contínua e possíveis momentos de abandono. Essa atividade nos proporcionou insights importantes sobre os momentos em que os usuários utilizarão nossa aplicação.
 
 ### **Resultado**
-![Resultado Jornada do usuario 1](../assets/images/jornada1.png)
-![Resultado Jornada do usuario 2](../assets/images/jornada2.png)
-![Resultado Jornada do usuario 3](../assets/images/jornada3.png)
+![Resultado Jornada do usuário 1](../assets/images/jornada1.png)
+![Resultado Jornada do usuário 2](../assets/images/jornada2.png)
+![Resultado Jornada do usuário 3](../assets/images/jornada3.png)
 
 ## **7. Brainstorming de Funcionalidades**
 No Brainstorming de Funcionalidades definimos e descrevemos o que os usuários poderão realizar no FGAad. Focamos em garantir que cada funcionalidade cumpra um objetivo de negócio específico, atenda a uma necessidade identificada da persona ou se integre a um momento específico na jornada do usuário.
@@ -81,7 +81,7 @@ Essa atividade nos ajudou a levantar uma lista de funcionalidades que atendem à
 ### **Resultado**
 ![Resultado Brainstorming de funcionalidades](../assets/images/funcionalidades.png)
 
-## **8. Revisão técnica, de negocios e de UX**
+## **8. Revisão técnica, de negócios e de UX**
 A revisão das funcionalidades garantiu o alinhamento da equipe em relação aos aspectos técnicos, de negócio e de experiência do usuário (UX). O objetivo desta atividade foi capturar novas perspectivas e tornar mais claro a viabilidade das funcionalidades do projeto.
 
 Seguimos o processo abaixo para realizar essa revisão:
@@ -103,8 +103,8 @@ Na etapa de Sequenciamento das Funcionalidades do nosso produto, organizamos as 
 ### **Resultado**
 ![Resultado Sequenciador](../assets/images/sequenciador.png)
 
-### **10. Canva MVP**
-A última etapa é a elaboração do Canva MVP para o nosso projeto, uma ferramenta visual que nos ajudou a definir e alinhar a estratégia do Produto Mínimo Viável (MVP). O Canvas MVP representa a versão mais básica do produto que atende às necessidades do negócio e pode ser validada pelo usuário final.
+### **10. Canvas MVP**
+A última etapa é a elaboração do Canvas MVP para o nosso projeto, uma ferramenta visual que nos ajudou a definir e alinhar a estratégia do Produto Mínimo Viável (MVP). O Canvas MVP representa a versão mais básica do produto que atende às necessidades do negócio e pode ser validada pelo usuário final.
 
 Segue o procedimento que utilizamos para criar o Canvas MVP:
 
