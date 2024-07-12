@@ -1,5 +1,12 @@
 # FGAInova
 
+<div align="center">
+<p style="display: flex; justify-content: center;">
+    <img src='https://i.ibb.co/h7hg8PL/logo-Botom-Info.png' width="300" height="auto">
+</p>
+</div>
+
+
 ## Sobre o projeto
 
 O Projeto FGAInova visa criar uma plataforma de marketing digital dedicada a promover projetos de inovação desenvolvidos em ambiente universitário. Inspirado pela necessidade de destacar e divulgar esses projetos em um cenário altamente competitivo, a plataforma oferecerá uma maneira eficaz de conectar estudantes, pesquisadores e profissionais com ideias inovadoras e impactantes.
